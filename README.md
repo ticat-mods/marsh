@@ -1,5 +1,5 @@
 # mist.ticat
-A [ticat](https://github.com/innerr/ticat) hub repo: for ticat developing and some daily-use tools
+A [ticat](https://github.com/innerr/ticat) mods repo: for ticat developing and some daily-use tools
 
 Apply this repo by running:
 ```bash
