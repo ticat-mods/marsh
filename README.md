@@ -5,5 +5,5 @@ Apply this repo by running:
 ```bash
 ticat hub.add innerr/harsh
 ```
-[ticat.hub] (not for human)
+[ticat.hub]
 * [git@github.com:innerr/examples.ticat](https://github.com/innerr/examples.ticat): examples for mods developing
