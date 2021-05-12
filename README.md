@@ -7,4 +7,4 @@ Apply this repo by running:
 ticat hub.add innerr/harsh
 ```
 [ticat.hub]
-* [git@github.com:innerr/examples.ticat](https://github.com/innerr/examples.ticat)
+* [git@github.com:innerr/examples.ticat](https://github.com/innerr/examples.ticat): mods developing examples (bash, python, golang, etc)
