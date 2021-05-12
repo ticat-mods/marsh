@@ -1,4 +1,4 @@
-# mist.ticat
+# marsh.ticat
 A [ticat](https://github.com/innerr/ticat) mods repo:
 for ticat developing and some daily-use tools
 
