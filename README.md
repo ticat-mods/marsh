@@ -6,5 +6,5 @@ Apply this repo by running:
 ```bash
 ticat hub.add innerr/harsh
 ```
-[ticat.hub]
+[ticat.hub] (this mark is for bot)
 * [git@github.com:innerr/examples.ticat](https://github.com/innerr/examples.ticat): mods developing examples (bash, python, golang, etc)
