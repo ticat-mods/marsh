@@ -1,0 +1,5 @@
+help = for ticat and TiDB development
+
+[repos]
+git@github.com:innerr/examples.ticat = mods developing examples (bash, python, golang, etc)
+git@github.com:innerr/tidb.ticat = TiDB cluster management mods
