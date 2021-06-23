@@ -2,4 +2,4 @@ help = for ticat and TiDB development
 
 [repos]
 git@github.com:innerr/examples.ticat = modules developing examples (bash, python, golang, etc)
-git@github.com:innerr/tidb.ticat = TiDB toolset
+git@github.com:innerr/tidb.ticat = TiDB toolbox
