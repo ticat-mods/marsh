@@ -1,5 +1,6 @@
 help = for ticat and TiDB development
 
 [repos]
+https://github.com/innerr/self.ticat = Self tools of ticat
 https://github.com/innerr/examples.ticat = modules developing examples (bash, python, golang, etc)
 https://github.com/innerr/tidb.ticat = TiDB toolbox
