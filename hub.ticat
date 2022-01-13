@@ -1,4 +1,4 @@
-help = for ticat and TiDB development
+help = basic repos for ticat
 
 [repos]
-https://github.com/innerr/self.ticat = Self tools of ticat
+https://github.com/innerr/self.ticat = self tools of ticat
