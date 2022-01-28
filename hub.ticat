@@ -1,4 +1,4 @@
 help = basic repos for ticat
 
 [repos]
-https://github.com/innerr/self.ticat = self tools of ticat
+https://github.com/ticat-mods/self = self toolbox of ticat
