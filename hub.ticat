@@ -2,3 +2,4 @@ help = basic repos for ticat
 
 [repos]
 https://github.com/ticat-mods/self = self toolbox of ticat
+https://github.com/ticat-mods/installing = toolbox of os-command or other dependencies installing
